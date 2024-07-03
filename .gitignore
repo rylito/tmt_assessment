@@ -1,0 +1,4 @@
+venv/
+static_serve/
+media_serve/
+db.sqlite3
